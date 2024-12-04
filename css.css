@@ -8,10 +8,7 @@
 }
 
 body {
-    background-color: #333;
-    background-image: url(IMMAGINI/fires.gif);
-    background-size: cover;
-    backdrop-filter: blur(10px);
+    background-color: orange;
 }
 
 button {
